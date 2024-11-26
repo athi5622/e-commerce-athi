@@ -1,6 +1,8 @@
-# atmi_eccom
+# 📱 Flutter E-Commerce App
 
-A new Flutter project.
+🌟 Overview
+This Flutter E-Commerce App is a beautifully designed and feature-rich application that showcases products with categories, offers seamless navigation, and integrates essential functionalities like a shopping cart, product details, and dynamic reviews. The app is built to demonstrate clean UI design and efficient state management with dynamic badge counters and interactive features.
+
 
 ## Getting Started
 
