@@ -1,28 +1,40 @@
 ![logo](https://github.com/athi5622/e-commerce-athi/blob/main/E-Commerce.png)
 <h1 align="center">📱 Flutter E-Commerce App</h1>
-<img align="right" alt="" width="400"src="https://github.com/athi5622/News_aggregator/blob/main/photo_2024-02-09_17-15-31%20(2).jpg">
 
-Flutter:
-🚀 Developed using the Flutter framework, offering cross-platform compatibility and a rich set of UI components.
-📱 Enables rapid development and deployment of mobile applications with native performance.
+# E-Commerce App
+Check out the demo of our app in action
+![logo](https://github.com/athi5622/e-commerce-athi/blob/main/g1.gif)
+  
+### 🚀 Features
 
-Dart:
-💻 Utilizes the Dart programming language for building the application logic and defining the UI components.
-✨ Offers a modern and expressive syntax, facilitating efficient development and maintenance of codebase.
-![logo](https://github.com/athi5622/News_aggregator/blob/main/x2.png)
+- 🎨 **Modern UI/UX**
+  - Clean and responsive design.
+  - Category chips for filtering products.
+  - Highlighted product deals with engaging visuals.
 
+- 🛒 **Shopping Cart with Badge Counter**
+  - Add items to the cart dynamically.
+  - View the total number of items as a badge on the bottom navigation cart icon.
 
+- 📜 **Product Details**
+  - Detailed product descriptions, images, and adjustable quantities.
+  - Price dynamically updates based on the selected quantity.
 
+- 💬 **User Reviews**
+  - Users can view existing reviews for products.
+  - Add personal reviews with an intuitive input field.
 
-SharedPreferences:
-🗄️ Integrates SharedPreferences for managing local storage and persisting user preferences and saved articles.
-💡 Enables efficient data retrieval and storage for offline functionality and bookmark management.
+- 🧭 **Easy Navigation**
+  - Seamless transition between screens like Home, Cart, and Product Details.
+  - Persistent bottom navigation for better usability.
+
+- 🔥 **Scalable Code Structure**
+  - Separation of concerns with widgets and screens organized in dedicated folders.
+  - Reusable components like CategoryChip and ProductCard.
+
 ![logo](https://github.com/athi5622/News_aggregator/blob/main/x6.png)
 
 
-Cached Network Image:
-🖼️ Integrates the Cached Network Image package to efficiently cache and display images fetched from remote servers.
-⚡ Improves app performance by reducing network requests and optimizing image loading time.
 
 
 
