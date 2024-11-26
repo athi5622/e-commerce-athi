@@ -32,7 +32,7 @@ Check out the demo of our app in action
   - Separation of concerns with widgets and screens organized in dedicated folders.
   - Reusable components like CategoryChip and ProductCard.
 
-![logo](https://github.com/athi5622/News_aggregator/blob/main/x6.png)
+![logo](https://github.com/athi5622/e-commerce-athi/blob/main/file.png)
 
 
 
