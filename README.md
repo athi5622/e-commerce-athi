@@ -1,4 +1,4 @@
-![logo]([https://github.com/athi5622/e-commerce-athi/blob/main/E-Commerce.png])
+![logo](https://github.com/athi5622/e-commerce-athi/blob/main/E-Commerce.png)
 <h1 align="center">📰News Aggregator Mobiel App</h1>
 <h3 align="center">Using 🚀 Flutter,Dart,Dependency:Shared_prefernce</h3>
 <img align="right" alt="" width="400"src="https://github.com/athi5622/News_aggregator/blob/main/photo_2024-02-09_17-15-31%20(2).jpg">
